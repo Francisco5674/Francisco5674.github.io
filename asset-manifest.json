@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Loh-Web/static/css/main.66686719.chunk.css",
+    "main.js": "/Loh-Web/static/js/main.557b57fe.chunk.js",
+    "main.js.map": "/Loh-Web/static/js/main.557b57fe.chunk.js.map",
+    "runtime-main.js": "/Loh-Web/static/js/runtime-main.78a429cf.js",
+    "runtime-main.js.map": "/Loh-Web/static/js/runtime-main.78a429cf.js.map",
+    "static/js/2.4094c6a4.chunk.js": "/Loh-Web/static/js/2.4094c6a4.chunk.js",
+    "static/js/2.4094c6a4.chunk.js.map": "/Loh-Web/static/js/2.4094c6a4.chunk.js.map",
+    "static/js/3.de418c6f.chunk.js": "/Loh-Web/static/js/3.de418c6f.chunk.js",
+    "static/js/3.de418c6f.chunk.js.map": "/Loh-Web/static/js/3.de418c6f.chunk.js.map",
+    "index.html": "/Loh-Web/index.html",
+    "static/css/main.66686719.chunk.css.map": "/Loh-Web/static/css/main.66686719.chunk.css.map",
+    "static/js/2.4094c6a4.chunk.js.LICENSE.txt": "/Loh-Web/static/js/2.4094c6a4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Loh-Web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78a429cf.js",
+    "static/js/2.4094c6a4.chunk.js",
+    "static/css/main.66686719.chunk.css",
+    "static/js/main.557b57fe.chunk.js"
+  ]
+}
